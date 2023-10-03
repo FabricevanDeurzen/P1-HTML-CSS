@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.flex-container{
+   display: flex;
+  justify-content: space-between;
+   flex-direction: row-reverse;
+    max-width: 1200px;
+}
+.blauw{
+    width: 200px;
+    height: 200px;
+    background: blue;
+}
+.zwart{
+    width: 200px;
+    height: 200px;
+    background: black;
+}
+
+.rood{
+    width: 200px;
+    height: 200px;
+    background:red;
+}
+.groen{
+    width: 200px;
+    height: 200px;
+    background:green;
+}
