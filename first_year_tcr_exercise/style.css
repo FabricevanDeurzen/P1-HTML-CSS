@@ -51,8 +51,8 @@ footer{
       position: absolute;
       bottom: 0;
 }
-.background{ background: black;
-
+.background{ 
+  background-image: url(img/background.jpeg);
 }
 .titel{
   text-align: center;
@@ -76,4 +76,10 @@ footer{
 }
 h1{
   font-weight: bold;
+}
+.navbar {
+  padding: 15px;
+  position: fixed;
+  width: 100%;
+  top: 0;
 }
