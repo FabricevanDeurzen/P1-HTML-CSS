@@ -177,3 +177,46 @@ h2{
   color: white;
 }
 
+.dropdown-content {
+  display: none;
+  position: absolute ;
+  background-color: white;
+  min-width: 20vw;
+  z-index: 1;
+  flex-direction: column;
+  opacity: 0;
+  transition:opacity 200ms ease-in-out;
+ 
+}
+
+.dropown-content a {
+  color: #00a8c7;
+  display: flex;
+  text-align: left;
+  padding: 0.5rem 0.5rem;
+}
+
+.dropdown:hover .dropdown-content {
+    display: flex;
+    opacity: 1;
+   
+}
+
+.dropdown:hover .dropbtn {
+  color: #00a8c7;
+  background-color: white;
+}
+
+.dropdown-item:hover {
+  background-color: #E9E9E9;
+  color: #00a8c7;
+}
+
+.dropdon-item{
+  background-color: gray;
+}
+
+.contact {
+  width: 150px;
+  margin: 2px auto;
+} 
