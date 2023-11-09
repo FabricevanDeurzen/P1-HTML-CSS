@@ -79,6 +79,7 @@ footer{
 }
 h1{
   font-weight: bold;
+  padding: 15px;
 }
 .navbar {
   padding: 15px;
@@ -93,3 +94,86 @@ h2{
   color: white;
   font-weight: bold;
 }
+
+.html-css-text{
+  margin-right: 10%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  font-size: 15px;
+}
+
+.img-html-css{
+  float: left;
+  width: 33%;
+  height: 33%;
+  padding-right: 0px;
+  margin-left: 10%;;
+}
+
+.all-html-css{
+  margin-left: 25%;
+  margin-top: 5%;
+ 
+}
+
+
+.all-php {
+  margin-left: 50%;
+  margin-top: 1% ;
+}
+
+.php-text {
+  margin-right: 10%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  font-size: 15px;
+}
+
+.img-php {
+  float: left;
+  width: 33%;
+  height: 33%;
+  padding-right: 0px;
+  margin-left: 10%;;
+}
+
+.img-sql{
+  float: right;
+  width: 33%;
+  height: 33%;
+  margin-right: 15%;
+}
+
+.sql-all {
+  color: white;
+  font-size: 15px;
+}
+
+.sql-all {
+  padding-top: 50px;
+  padding-left: 159px;
+  padding-right: 700px;
+  padding-bottom: 50px;
+}
+
+
+.javascriptimg {
+  float: right;
+  width: 20%;
+  height: 20%;
+  margin-right: 25%;
+}
+
+.javascripttext {
+  margin-top: 1%;
+  margin-bottom: 1%;
+  font-size: 15px;
+}
+
+.javascriptall {
+  margin-left: 10%;
+  margin-right: 55%;
+  margin-top: 5%;
+  color: white;
+}
+
